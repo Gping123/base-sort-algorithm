@@ -1,0 +1,15 @@
+{
+    "name": "administrator/tmp",
+    "authors": [
+        {
+            "name": "Gping123",
+            "email": "1530188802@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\":"src/"
+        }
+    }
+}
